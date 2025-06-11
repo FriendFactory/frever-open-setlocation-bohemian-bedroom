@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3002839717721599134
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 435850264520307524, guid: 44f510b5607da2a46a491c6c7f1b9ab3,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 435850264520307524, guid: 44f510b5607da2a46a491c6c7f1b9ab3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 435850264520307524, guid: 44f510b5607da2a46a491c6c7f1b9ab3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 435850264520307524, guid: 44f510b5607da2a46a491c6c7f1b9ab3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 956912859597400574, guid: 44f510b5607da2a46a491c6c7f1b9ab3,
+        type: 3}
+      propertyPath: m_Name
+      value: Door_V1_Painted
+      objectReference: {fileID: 0}
+    - target: {fileID: 1605356646087903275, guid: 44f510b5607da2a46a491c6c7f1b9ab3,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bf75736bff002364f8a8992b65adc504, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 44f510b5607da2a46a491c6c7f1b9ab3, type: 3}
